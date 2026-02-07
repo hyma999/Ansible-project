@@ -11,6 +11,9 @@
 198.78.98.46
 198.78.98.47
 
+[web]
+172.31.21.200
+
 [roboshop:child]
 frontend
 backend
