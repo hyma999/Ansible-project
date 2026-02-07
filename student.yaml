@@ -1,0 +1,17 @@
+- name: "Hyma"
+  DOB:"10-06-94"
+  SID:888
+  mobile:1234567890
+  address:
+  -  flatno:408
+     street:maruthi nagar
+     city:kadapa
+     state:Ap
+     type:permenant
+
+  -  flatno:408
+     street:maruthi nagar
+     city:kadapa
+     state:Ap
+     type:permenant
+
