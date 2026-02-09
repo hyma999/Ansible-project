@@ -3,5 +3,5 @@
    become:yes
    
    tasks:
-     - name: test connectivity
+     - name: Test connectivity
        ping:
