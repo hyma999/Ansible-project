@@ -1,6 +1,6 @@
 -  name: ping servers
-   host:local
-   connection:local
+   host:web 
+   become:yes
    
    tasks:
      - name: test connectivity
